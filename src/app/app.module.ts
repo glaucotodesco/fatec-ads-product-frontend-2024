@@ -8,12 +8,16 @@ import { ProductsTableComponent } from './products-table/products-table.componen
 import { HttpClientModule } from '@angular/common/http';
 import { ProductFormComponent } from './product-form/product-form.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { HomeComponent } from './home/home.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProductsTableComponent,
-    ProductFormComponent
+    ProductFormComponent,
+    HomeComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

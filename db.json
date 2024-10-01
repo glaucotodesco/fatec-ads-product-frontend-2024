@@ -1,14 +1,8 @@
 {
   "products": [
     {
-      "id": 2,
-      "name": "Computador i5",
-      "price": "1000",
-      "category": "Eletrônicos"
-    },
-    {
       "id": 3,
-      "name": "Mouse",
+      "name": "Mouse Master Plus 22",
       "price": 640,
       "category": "Eletrônicos"
     }
